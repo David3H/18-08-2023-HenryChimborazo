@@ -1,0 +1,44 @@
+  156  git init
+  157  git config user.name "David3H"
+  158  git config user.mail "henrychimborazo331@gmail.com"
+  159  git remote add origin https://github.com/David3H/18-08-2023-HenryChimborazo.git
+  160  git branch
+  161  touch main.js
+  162  touch index.html
+  163  git commit -m "commit 01 henryChimborazo"
+  164  git add .
+  165  git status
+  166  git commit -m "commit 01 henryChimborazo"
+  167  git push https://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@github.com/David3H/18-08-2023-HenryChimborazo.git
+  168  git branch
+  169  git branch feature
+  170  git branch
+  171  git checkout feature
+  172  git branch
+  173  mkdir Hardware
+  174  mkdir Software
+  175  mkdir SeguridadInformatica
+  176  cd Hardware/
+  177  touch resumen.txt
+  178  cd .
+  179  cd ..
+  180  cd Software/
+  181  touch resumen.txt
+  182  cd ..
+  183  cd SeguridadInformatica/
+  184  touch resumen.txt
+  185  cd ..
+  186  git branch
+  187  git push -u origin feature
+  188  git checkout master
+  189  git branch
+  190  mv main.js resumenHardware.txt
+  191  ls
+  192  vi resumenHardware.txt
+  193  mv index.html resumenSoftware.txt
+  194  vi resumenSoftware.txt
+  195  history
+  196  history 40 < comandos.txt
+  197  ls
+  198  touch comandos.txt
+  199  history 43 < comandos.txt
